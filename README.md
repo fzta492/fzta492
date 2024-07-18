@@ -5,7 +5,7 @@
 
 ### Olá! 👋
 
-Sou Fellipe Bandeira, apaixonado por tecnologia e inovação, com um forte foco em gestão de performance orientada por dados e machine learning. Aqui você encontrará uma coleção dos meus projetos que refletem minha jornada e interesses no mundo da tecnologia.
+Sou Fellipe Bandeira, apaixonado por tecnologia e inovação, com um forte foco em performance orientada por dados e machine learning. Aqui você encontrará uma coleção dos meus projetos que refletem minha jornada e interesses no mundo da tecnologia.
 
 ## 🚀 Projetos
 
