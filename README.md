@@ -9,7 +9,7 @@ Sou Fellipe Bandeira, apaixonado por tecnologia e inovação, com um forte foco 
 
 ## 🚀 Projetos
 
-### [Dashboards de Power BI](https://github.com/fzta492/Dashboards-Power-BI)
+### [Dashboards de Power BI e Looker Studio](https://github.com/fzta492/Dashboards-Power-BI)
 Uma coleção de dashboards interativos criados com Power BI para visualizar e analisar dados complexos, fornecendo insights acionáveis para tomada de decisões estratégicas.
 
 ### [Band Perfumaria](https://github.com/fzta492/bandperfumaria)
