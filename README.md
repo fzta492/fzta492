@@ -27,7 +27,7 @@ Uma análise detalhada dos preços de aluguéis em São Paulo usando estatístic
 - **Análise de Dados:** Pandas, NumPy, Matplotlib
 - **Machine Learning:** Scikit-Learn, TensorFlow
 - **Gerenciamento de Banco de Dados:** PostgreSQL, MySQL
-- **Ferramentas e Plataformas:** Git, GitHub, Jupyter Notebook, Google Colab
+- **Ferramentas e Plataformas:** Git, GitHub, Jupyter Notebook, Google Colab, Knime
 - **Visualização:** Power BI, Looker Studio
 
 ## 📊 Estatísticas do GitHub
