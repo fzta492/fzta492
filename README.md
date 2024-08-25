@@ -21,6 +21,9 @@ Um projeto de análise exploratória de dados (EDA) utilizando Python para enten
 ### [Análise de Aluguéis em São Paulo](https://github.com/fzta492/analise_alugueis_sao_paulo)
 Uma análise detalhada dos preços de aluguéis em São Paulo usando estatísticas descritivas e regressão linear em Python.
 
+### [Análise dos Focos de Queimadas no Brasil](https://github.com/fzta492/Analise-de-focos-de-queimadas-com-KNIME)
+Análise detalhada dos focos de queimadas no Brasil de 2003 até julho de 2024, utilizando a plataforma KNIME para processamento, transformação e visualização dos dados.
+
 ## 🛠 Habilidades
 
 - **Linguagens de Programação:** Python, SQL
