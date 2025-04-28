@@ -40,7 +40,6 @@ Análise detalhada dos focos de queimadas no Brasil de 2003 até julho de 2024, 
 ## 📫 Como Me Encontrar
 
 - **LinkedIn:** [fellipebandeira](https://www.linkedin.com/in/fellipe-bandeira/)
-- **Email:** flzeta7@gmail.com
 
 ---
 
