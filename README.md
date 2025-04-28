@@ -30,7 +30,7 @@ Análise detalhada dos focos de queimadas no Brasil de 2003 até julho de 2024, 
 - **Análise de Dados:** Pandas, NumPy, Matplotlib
 - **Machine Learning:** Scikit-Learn, TensorFlow
 - **Gerenciamento de Banco de Dados:** PostgreSQL, MySQL
-- **Ferramentas e Plataformas:** Git, GitHub, Jupyter Notebook, Google Colab, Knime
+- **Ferramentas e Plataformas:** Git, GitHub, Jupyter Notebook, Google Colab, Knime, Databricks
 - **Visualização:** Power BI, Looker Studio
 
 ## 📊 Estatísticas do GitHub
