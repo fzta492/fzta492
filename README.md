@@ -9,7 +9,7 @@ Sou Fellipe Bandeira, apaixonado por tecnologia e inovação, com um forte foco 
 
 ## 🚀 Projetos
 
-### Engenharia e Qualidade de Dados
+### [Engenharia e Qualidade de Dados]()
 Soluções completas de engenharia de dados, abrangendo modelagem de Data Warehouse, construção de pipelines automatizados e validação de esquemas (Data Quality) para assegurar a consistência dos dados analíticos. <br>
 - [Headless BI: Semantic Layer](https://github.com/fzta492/headless-bi-semantic-layer-poc/tree/main) - Camada Semântica Headless. Definimos a regra de negócio uma vez em código (YAML), versionamos com Git e servimos via API para qualquer ferramenta (Tableau, PowerBI, React App)
 - [Data Contracts Executáveis: O Padrão "Circuit Breaker" com Pandera](https://github.com/fzta492/pandera-circuit-breaker) - Implementação de referência para validação de dados em tempo de execução (Runtime Validation), substituindo contratos estáticos por código executável que bloqueia dados corrompidos na ingestão.
