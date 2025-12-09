@@ -1,11 +1,13 @@
 # Fellipe Bandeira
+#### Especialista em Dados | Data Analyst & Analytics Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fellipebandeira-blue)](https://www.linkedin.com/in/fellipe-bandeira/)
 [![GitHub](https://img.shields.io/github/followers/fellipebandeira?style=social)](https://github.com/fellipebandeira)
 
 ### Olá! 👋
 
-Sou Fellipe Bandeira, apaixonado por tecnologia e inovação, com um forte foco em performance orientada por dados e machine learning. Aqui você encontrará uma coleção dos meus projetos que refletem minha jornada e interesses no mundo da tecnologia.
+Sou Fellipe Bandeira, profissional **focado em performance orientada por dados** e apaixonado por transformar desafios de negócio em soluções escaláveis. Com formação híbrida em Inteligência Artificial e Gestão Estratégica, meu trabalho é aliar Engenharia de Dados à análise estratégica (Analytics, KPIs).<br>
+Aqui você encontrará uma coleção dos meus projetos que refletem minha jornada e interesses em: Python, arquitetura em Cloud (BigQuery, Databricks), ETL/ELT e automação.
 
 ## 🚀 Projetos
 
@@ -30,16 +32,14 @@ Análise detalhada dos focos de queimadas no Brasil de 2003 até julho de 2024, 
 
 ## 🛠 Habilidades
 
-- **Linguagens de Programação:** Python, SQL
-- **Análise de Dados:** Pandas, NumPy, Matplotlib
-- **Machine Learning:** Scikit-Learn, TensorFlow
-- **Gerenciamento de Banco de Dados:** PostgreSQL, MySQL
-- **Ferramentas e Plataformas:** Git, GitHub, Jupyter Notebook, Google Colab, Knime, Databricks
-- **Visualização:** Power BI, Looker Studio
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub do Fellipe](https://github-readme-stats.vercel.app/api?username=fzta492&show_icons=true&theme=dark)
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Linguagens & SQL** | Python, SQL (PostgreSQL, BigQuery) |
+| **Bibliotecas Python** | Pandas, NumPy, Statsmodels, Matplotlib, Scikit-Learn, TensorFlow |
+| **Engenharia de Dados & Cloud** | ETL/ELT Pipelines, Google BigQuery, Databricks/Apache Spark, KNIME, Integração de APIs |
+| **ML & Modelagem** | Machine Learning, Modelagem de Dados Relacional e Dimensional |
+| **Visualização & BI** | Looker Studio, Power BI, Dashboards Interativos, Storytelling com Dados |
+| **Metodologias & Ferramentas** | Lean Six Sigma (Green Belt), Git/GitHub, Jupyter Notebook, Google Colab, UiPath (RPA), Bizagi (BPMN) |
 
 ## 📫 Como Me Encontrar
 
@@ -50,4 +50,5 @@ Análise detalhada dos focos de queimadas no Brasil de 2003 até julho de 2024, 
 Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em um projeto ou apenas conversar sobre tecnologia.
 
 ---
+
 
