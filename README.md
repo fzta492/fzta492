@@ -15,6 +15,7 @@ Aqui você encontrará uma coleção dos meus projetos que refletem minha jornad
 Soluções completas de engenharia de dados, abrangendo modelagem de Data Warehouse, construção de pipelines automatizados e validação de esquemas (Data Quality) para assegurar a consistência dos dados analíticos. <br>
 - [Headless BI: Semantic Layer](https://github.com/fzta492/headless-bi-semantic-layer-poc/tree/main) - Camada Semântica Headless. Definimos a regra de negócio uma vez em código (YAML), versionamos com Git e servimos via API para qualquer ferramenta (Tableau, PowerBI, React App)
 - [Data Contracts Executáveis: O Padrão "Circuit Breaker" com Pandera](https://github.com/fzta492/pandera-circuit-breaker) - Implementação de referência para validação de dados em tempo de execução (Runtime Validation), substituindo contratos estáticos por código executável que bloqueia dados corrompidos na ingestão.
+- [DSPy Auto-Optimizer](https://github.com/fzta492/dspy-auto-optimizer) - transicionar da "Engenharia de Prompt" manual (estocástica e frágil) para a Programação de Prompt (determinística e compilável) utilizando o framework DSPy.
 ### [Dashboards de Power BI e Looker Studio](https://github.com/fzta492/Dashboards-Power-BI)
 Uma coleção de dashboards interativos criados com Power BI e Looker Studio para visualizar e analisar dados complexos, fornecendo insights acionáveis para tomada de decisões estratégicas.
 
